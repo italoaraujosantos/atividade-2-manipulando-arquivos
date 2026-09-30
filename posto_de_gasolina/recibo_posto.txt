@@ -1,0 +1,30 @@
+=========== POSTO DE GASOLINA ====================
+CarroABC-1234
+Combustível: Etanol
+Valor R$ 50
+MotoDEF-5678
+Combustível: Gasolina
+Valor R$ 25
+Van EscolarGHI-9012
+Combustível: Diesel
+Valor R$ 200
+CaminhãoJKL-3456
+Combustível: Diesel
+Valor R$ 350
+ÔnibusMNO-7890
+Combustível: Diesel
+Valor R$ 400
+PicapePQR-1234
+Combustível: Gasolina
+Valor R$ 150
+TáxiSTU-5678
+Combustível: Gasolina
+Valor R$ 80
+AmbulânciaVWX-9012
+Combustível: Etanol
+Valor R$ 100
+========================================
+Etanol: R$ 150.00
+Gasolina: R$ 255.00
+Diesel: R$ 950.00
+TOTAL DO DIA: R$ 1355.00
