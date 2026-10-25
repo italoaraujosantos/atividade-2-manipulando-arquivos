@@ -5,3 +5,4 @@ class Veiculo:
 
     def __str__(self):
         return f"{self.modelo} - Placa: {self.placa}"
+
